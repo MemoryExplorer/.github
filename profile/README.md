@@ -9,10 +9,10 @@
 
 
 ## 멤버 구성
-+ 이다정(joker96.dj@gmail.com)<br/>
-+ 성우현(sunguh0904@gmail.com)<br/>
-+ 권순상(sunskwon@gmail.com)<br/>
-+ 구예성(jh8ckr@gmail.com)<br/>
++ 이다정(https://github.com/orgs/MemoryExplorer/people/LXXDJ)<br/>
++ 성우현(https://github.com/orgs/MemoryExplorer/people/sunguh0904)<br/>
++ 구예성(https://github.com/orgs/MemoryExplorer/people/KUYESUNG)<br/>
++ 권순상(https://github.com/orgs/MemoryExplorer/people/sunskwon)<br/>
 
 
 ## 프로젝트 기능
